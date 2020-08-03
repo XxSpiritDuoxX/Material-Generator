@@ -1,5 +1,5 @@
 # Material Name and Info Generator
-for when you are a bit too lazy to make your own name and info for your materials
+for when you are a bit too lazy to make your own name and info for your materials,this should be run in the Command Prompt
 
 ## Info
 When run in the Command Prompt,creates a custom name of a Gem/Ore,also providing some small descriptions,this can be used for ideas for your fantasy games,you may change it if you dont like it,its mainly used for giving you ideas for materials,Example:
